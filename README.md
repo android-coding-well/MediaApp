@@ -1,6 +1,6 @@
 # FFMPEG for Android
 
-标签（空格分隔）： ffmpeg android window androidstudio
+标签： ffmpeg android window androidstudio
 
 ---
 
